@@ -13,3 +13,8 @@ $ python3 INCOGNITO.py
 - If not: Enter any key to procced to queries
 
 Then  Instructions for choosing a query appears
+
+### Team
+* [Stella Sravanthi](https://szokla.com/sravanthi657)
+* Anvita Reddy Katipelly
+* Pranoy J
